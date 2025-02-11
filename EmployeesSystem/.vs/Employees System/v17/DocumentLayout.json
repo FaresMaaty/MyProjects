@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects C#\\Employees System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C8F5F4-A0B2-4FA3-93A6-2CE4787EA211}|Employees System.csproj|d:\\projects c#\\employees system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C8F5F4-A0B2-4FA3-93A6-2CE4787EA211}|Employees System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875C75A1-6366-4519-B511-F7EAFAE95B7D}|..\\collection Class\\collection Class.csproj|d:\\projects c#\\collection class\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C8F5F4-A0B2-4FA3-93A6-2CE4787EA211}|Employees System.csproj|d:\\projects c#\\employees system\\employee\\vacation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C8F5F4-A0B2-4FA3-93A6-2CE4787EA211}|Employees System.csproj|solutionrelative:employee\\vacation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C8F5F4-A0B2-4FA3-93A6-2CE4787EA211}|Employees System.csproj|d:\\projects c#\\employees system\\employee\\detuctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C8F5F4-A0B2-4FA3-93A6-2CE4787EA211}|Employees System.csproj|solutionrelative:employee\\detuctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C8F5F4-A0B2-4FA3-93A6-2CE4787EA211}|Employees System.csproj|d:\\projects c#\\employees system\\employee\\allownance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C8F5F4-A0B2-4FA3-93A6-2CE4787EA211}|Employees System.csproj|solutionrelative:employee\\allownance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C8F5F4-A0B2-4FA3-93A6-2CE4787EA211}|Employees System.csproj|d:\\projects c#\\employees system\\employee\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C8F5F4-A0B2-4FA3-93A6-2CE4787EA211}|Employees System.csproj|solutionrelative:employee\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C8F5F4-A0B2-4FA3-93A6-2CE4787EA211}|Employees System.csproj|d:\\projects c#\\employees system\\employee\\employee_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C8F5F4-A0B2-4FA3-93A6-2CE4787EA211}|Employees System.csproj|solutionrelative:employee\\employee_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Employees System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects C#\\Employees System\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:54:41.541Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee_Project.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Employees System\\Employee\\Employee_Project.cs",
+              "RelativeDocumentMoniker": "Employee\\Employee_Project.cs",
+              "ToolTip": "D:\\Projects C#\\Employees System\\Employee\\Employee_Project.cs*",
+              "RelativeToolTip": "Employee\\Employee_Project.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:41:17.498Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Employees System\\Employee\\Department.cs",
+              "RelativeDocumentMoniker": "Employee\\Department.cs",
+              "ToolTip": "D:\\Projects C#\\Employees System\\Employee\\Department.cs",
+              "RelativeToolTip": "Employee\\Department.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:19:01.03Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Allownance.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Employees System\\Employee\\Allownance.cs",
+              "RelativeDocumentMoniker": "Employee\\Allownance.cs",
+              "ToolTip": "D:\\Projects C#\\Employees System\\Employee\\Allownance.cs",
+              "RelativeToolTip": "Employee\\Allownance.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:10:36.731Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detuctions.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Employees System\\Employee\\Detuctions.cs",
+              "RelativeDocumentMoniker": "Employee\\Detuctions.cs",
+              "ToolTip": "D:\\Projects C#\\Employees System\\Employee\\Detuctions.cs",
+              "RelativeToolTip": "Employee\\Detuctions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:11:01.001Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vacation.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Employees System\\Employee\\Vacation.cs",
+              "RelativeDocumentMoniker": "Employee\\Vacation.cs",
+              "ToolTip": "D:\\Projects C#\\Employees System\\Employee\\Vacation.cs",
+              "RelativeToolTip": "Employee\\Vacation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:11:28.873Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\Projects C#\\collection Class\\Developer.cs",
+              "RelativeDocumentMoniker": "..\\collection Class\\Developer.cs",
+              "ToolTip": "D:\\Projects C#\\collection Class\\Developer.cs",
+              "RelativeToolTip": "..\\collection Class\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:28:51.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

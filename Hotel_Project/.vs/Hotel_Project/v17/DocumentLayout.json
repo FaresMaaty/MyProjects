@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects C#\\Hotel_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|d:\\projects c#\\hotel_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|d:\\projects c#\\hotel_project\\classes projects\\hotel\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|solutionrelative:classes projects\\hotel\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|d:\\projects c#\\hotel_project\\classes projects\\customer\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|solutionrelative:classes projects\\customer\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|d:\\projects c#\\hotel_project\\classes projects\\hotel\\standard_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|solutionrelative:classes projects\\hotel\\standard_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|d:\\projects c#\\hotel_project\\classes projects\\hotel\\iroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|solutionrelative:classes projects\\hotel\\iroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|d:\\projects c#\\hotel_project\\classes projects\\customer\\standard_resevation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|solutionrelative:classes projects\\customer\\standard_resevation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|d:\\projects c#\\hotel_project\\classes projects\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|solutionrelative:classes projects\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|d:\\projects c#\\hotel_project\\classes projects\\customer\\vip_reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|solutionrelative:classes projects\\customer\\vip_reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|d:\\projects c#\\hotel_project\\classes projects\\hotel\\vip_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|solutionrelative:classes projects\\hotel\\vip_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|d:\\projects c#\\hotel_project\\classes projects\\hotel\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|solutionrelative:classes projects\\hotel\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|d:\\projects c#\\hotel_project\\classes projects\\hotel\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE5486D-4473-42B1-AB33-202DA7CEB2CF}|Hotel_Project.csproj|solutionrelative:classes projects\\hotel\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Hotel_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects C#\\Hotel_Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:18:39.655Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Hotel\\Hotel.cs",
+              "RelativeDocumentMoniker": "Classes Projects\\Hotel\\Hotel.cs",
+              "ToolTip": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Hotel\\Hotel.cs",
+              "RelativeToolTip": "Classes Projects\\Hotel\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:26:04.47Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Building.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Hotel\\Building.cs",
+              "RelativeDocumentMoniker": "Classes Projects\\Hotel\\Building.cs",
+              "ToolTip": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Hotel\\Building.cs",
+              "RelativeToolTip": "Classes Projects\\Hotel\\Building.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:26:27.229Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRoom.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Hotel\\IRoom.cs",
+              "RelativeDocumentMoniker": "Classes Projects\\Hotel\\IRoom.cs",
+              "ToolTip": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Hotel\\IRoom.cs",
+              "RelativeToolTip": "Classes Projects\\Hotel\\IRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:27:04.614Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Standard_Room.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Hotel\\Standard_Room.cs",
+              "RelativeDocumentMoniker": "Classes Projects\\Hotel\\Standard_Room.cs",
+              "ToolTip": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Hotel\\Standard_Room.cs",
+              "RelativeToolTip": "Classes Projects\\Hotel\\Standard_Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:28:20.865Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VIP_Room.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Hotel\\VIP_Room.cs",
+              "RelativeDocumentMoniker": "Classes Projects\\Hotel\\VIP_Room.cs",
+              "ToolTip": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Hotel\\VIP_Room.cs",
+              "RelativeToolTip": "Classes Projects\\Hotel\\VIP_Room.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:29:21.781Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Customer\\Customer.cs",
+              "RelativeDocumentMoniker": "Classes Projects\\Customer\\Customer.cs",
+              "ToolTip": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Customer\\Customer.cs",
+              "RelativeToolTip": "Classes Projects\\Customer\\Customer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:21:54.437Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Customer\\Reservation.cs",
+              "RelativeDocumentMoniker": "Classes Projects\\Customer\\Reservation.cs",
+              "ToolTip": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Customer\\Reservation.cs",
+              "RelativeToolTip": "Classes Projects\\Customer\\Reservation.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAnwA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:23:32.812Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Standard_Resevation.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Customer\\Standard_Resevation.cs",
+              "RelativeDocumentMoniker": "Classes Projects\\Customer\\Standard_Resevation.cs",
+              "ToolTip": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Customer\\Standard_Resevation.cs",
+              "RelativeToolTip": "Classes Projects\\Customer\\Standard_Resevation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:24:27.027Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VIP_Reservation.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Customer\\VIP_Reservation.cs",
+              "RelativeDocumentMoniker": "Classes Projects\\Customer\\VIP_Reservation.cs",
+              "ToolTip": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Customer\\VIP_Reservation.cs",
+              "RelativeToolTip": "Classes Projects\\Customer\\VIP_Reservation.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:25:02.611Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Components.cs",
+              "DocumentMoniker": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Hotel\\Components.cs",
+              "RelativeDocumentMoniker": "Classes Projects\\Hotel\\Components.cs",
+              "ToolTip": "D:\\Projects C#\\Hotel_Project\\Classes Projects\\Hotel\\Components.cs",
+              "RelativeToolTip": "Classes Projects\\Hotel\\Components.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:33:10.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

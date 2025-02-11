@@ -1,0 +1,14 @@
+D:\Projects C#\NewProject_Student\obj\Debug\net8.0\NewProject_Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects C#\NewProject_Student\obj\Debug\net8.0\NewProject_Student.AssemblyInfoInputs.cache
+D:\Projects C#\NewProject_Student\obj\Debug\net8.0\NewProject_Student.AssemblyInfo.cs
+D:\Projects C#\NewProject_Student\obj\Debug\net8.0\NewProject_Student.csproj.CoreCompileInputs.cache
+D:\Projects C#\NewProject_Student\bin\Debug\net8.0\NewProject_Student.exe
+D:\Projects C#\NewProject_Student\bin\Debug\net8.0\NewProject_Student.deps.json
+D:\Projects C#\NewProject_Student\bin\Debug\net8.0\NewProject_Student.runtimeconfig.json
+D:\Projects C#\NewProject_Student\bin\Debug\net8.0\NewProject_Student.dll
+D:\Projects C#\NewProject_Student\bin\Debug\net8.0\NewProject_Student.pdb
+D:\Projects C#\NewProject_Student\obj\Debug\net8.0\NewProject_Student.dll
+D:\Projects C#\NewProject_Student\obj\Debug\net8.0\refint\NewProject_Student.dll
+D:\Projects C#\NewProject_Student\obj\Debug\net8.0\NewProject_Student.pdb
+D:\Projects C#\NewProject_Student\obj\Debug\net8.0\NewProject_Student.genruntimeconfig.cache
+D:\Projects C#\NewProject_Student\obj\Debug\net8.0\ref\NewProject_Student.dll

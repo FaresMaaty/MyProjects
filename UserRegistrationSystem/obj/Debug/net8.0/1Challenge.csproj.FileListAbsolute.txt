@@ -1,0 +1,14 @@
+D:\Tasks of CatReloaded\1Challenge\bin\Debug\net8.0\1Challenge.exe
+D:\Tasks of CatReloaded\1Challenge\bin\Debug\net8.0\1Challenge.deps.json
+D:\Tasks of CatReloaded\1Challenge\bin\Debug\net8.0\1Challenge.runtimeconfig.json
+D:\Tasks of CatReloaded\1Challenge\bin\Debug\net8.0\1Challenge.dll
+D:\Tasks of CatReloaded\1Challenge\bin\Debug\net8.0\1Challenge.pdb
+D:\Tasks of CatReloaded\1Challenge\obj\Debug\net8.0\1Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tasks of CatReloaded\1Challenge\obj\Debug\net8.0\1Challenge.AssemblyInfoInputs.cache
+D:\Tasks of CatReloaded\1Challenge\obj\Debug\net8.0\1Challenge.AssemblyInfo.cs
+D:\Tasks of CatReloaded\1Challenge\obj\Debug\net8.0\1Challenge.csproj.CoreCompileInputs.cache
+D:\Tasks of CatReloaded\1Challenge\obj\Debug\net8.0\1Challenge.dll
+D:\Tasks of CatReloaded\1Challenge\obj\Debug\net8.0\refint\1Challenge.dll
+D:\Tasks of CatReloaded\1Challenge\obj\Debug\net8.0\1Challenge.pdb
+D:\Tasks of CatReloaded\1Challenge\obj\Debug\net8.0\1Challenge.genruntimeconfig.cache
+D:\Tasks of CatReloaded\1Challenge\obj\Debug\net8.0\ref\1Challenge.dll
