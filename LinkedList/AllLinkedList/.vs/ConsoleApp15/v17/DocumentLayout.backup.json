@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects C#\\ConsoleApp15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F80532C-3D9C-4906-B359-EED8B362DD29}|ConsoleApp15.csproj|d:\\projects c#\\consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F80532C-3D9C-4906-B359-EED8B362DD29}|ConsoleApp15.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F80532C-3D9C-4906-B359-EED8B362DD29}|ConsoleApp15.csproj|d:\\projects c#\\consoleapp15\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F80532C-3D9C-4906-B359-EED8B362DD29}|ConsoleApp15.csproj|solutionrelative:doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F80532C-3D9C-4906-B359-EED8B362DD29}|ConsoleApp15.csproj|d:\\projects c#\\consoleapp15\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F80532C-3D9C-4906-B359-EED8B362DD29}|ConsoleApp15.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F80532C-3D9C-4906-B359-EED8B362DD29}|ConsoleApp15.csproj|d:\\projects c#\\consoleapp15\\doublynode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F80532C-3D9C-4906-B359-EED8B362DD29}|ConsoleApp15.csproj|solutionrelative:doublynode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F80532C-3D9C-4906-B359-EED8B362DD29}|ConsoleApp15.csproj|d:\\projects c#\\consoleapp15\\singlelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F80532C-3D9C-4906-B359-EED8B362DD29}|ConsoleApp15.csproj|solutionrelative:singlelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F80532C-3D9C-4906-B359-EED8B362DD29}|ConsoleApp15.csproj|d:\\projects c#\\consoleapp15\\circlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F80532C-3D9C-4906-B359-EED8B362DD29}|ConsoleApp15.csproj|solutionrelative:circlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoublyNode.cs",
+              "DocumentMoniker": "D:\\Projects C#\\ConsoleApp15\\DoublyNode.cs",
+              "RelativeDocumentMoniker": "DoublyNode.cs",
+              "ToolTip": "D:\\Projects C#\\ConsoleApp15\\DoublyNode.cs*",
+              "RelativeToolTip": "DoublyNode.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:55:22.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Projects C#\\ConsoleApp15\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "D:\\Projects C#\\ConsoleApp15\\Node.cs*",
+              "RelativeToolTip": "Node.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:54:48.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoublyLinkedList.cs",
+              "DocumentMoniker": "D:\\Projects C#\\ConsoleApp15\\DoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "DoublyLinkedList.cs",
+              "ToolTip": "D:\\Projects C#\\ConsoleApp15\\DoublyLinkedList.cs*",
+              "RelativeToolTip": "DoublyLinkedList.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:21:19.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CirclyLinkedList.cs",
+              "DocumentMoniker": "D:\\Projects C#\\ConsoleApp15\\CirclyLinkedList.cs",
+              "RelativeDocumentMoniker": "CirclyLinkedList.cs",
+              "ToolTip": "D:\\Projects C#\\ConsoleApp15\\CirclyLinkedList.cs*",
+              "RelativeToolTip": "CirclyLinkedList.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:20:13.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingleLinkedList.cs",
+              "DocumentMoniker": "D:\\Projects C#\\ConsoleApp15\\SingleLinkedList.cs",
+              "RelativeDocumentMoniker": "SingleLinkedList.cs",
+              "ToolTip": "D:\\Projects C#\\ConsoleApp15\\SingleLinkedList.cs*",
+              "RelativeToolTip": "SingleLinkedList.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:18:35.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects C#\\ConsoleApp15\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects C#\\ConsoleApp15\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:19:32.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\obj\Debug\net8.0\ImplementatiomStack&&QueueWithLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\obj\Debug\net8.0\ImplementatiomStack&&QueueWithLinkedList.AssemblyInfoInputs.cache
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\obj\Debug\net8.0\ImplementatiomStack&&QueueWithLinkedList.AssemblyInfo.cs
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\obj\Debug\net8.0\ImplementatiomStack&&QueueWithLinkedList.csproj.CoreCompileInputs.cache
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\bin\Debug\net8.0\ImplementatiomStack&&QueueWithLinkedList.exe
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\bin\Debug\net8.0\ImplementatiomStack&&QueueWithLinkedList.deps.json
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\bin\Debug\net8.0\ImplementatiomStack&&QueueWithLinkedList.runtimeconfig.json
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\bin\Debug\net8.0\ImplementatiomStack&&QueueWithLinkedList.dll
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\bin\Debug\net8.0\ImplementatiomStack&&QueueWithLinkedList.pdb
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\obj\Debug\net8.0\ImplementatiomStack&&QueueWithLinkedList.dll
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\obj\Debug\net8.0\refint\ImplementatiomStack&&QueueWithLinkedList.dll
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\obj\Debug\net8.0\ImplementatiomStack&&QueueWithLinkedList.pdb
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\obj\Debug\net8.0\ImplementatiomStack&&QueueWithLinkedList.genruntimeconfig.cache
+D:\Projects2\ImplementatiomStack&&QueueWithLinkedList\obj\Debug\net8.0\ref\ImplementatiomStack&&QueueWithLinkedList.dll

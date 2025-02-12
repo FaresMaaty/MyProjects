@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects2\\ImplementatiomStack\u0026\u0026QueueWithLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF667-A4EA-42ED-ACCF-EABC7B20D886}|ImplementatiomStack\u0026\u0026QueueWithLinkedList.csproj|d:\\projects2\\implementatiomstack\u0026\u0026queuewithlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF667-A4EA-42ED-ACCF-EABC7B20D886}|ImplementatiomStack\u0026\u0026QueueWithLinkedList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF667-A4EA-42ED-ACCF-EABC7B20D886}|ImplementatiomStack\u0026\u0026QueueWithLinkedList.csproj|d:\\projects2\\implementatiomstack\u0026\u0026queuewithlinkedlist\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF667-A4EA-42ED-ACCF-EABC7B20D886}|ImplementatiomStack\u0026\u0026QueueWithLinkedList.csproj|solutionrelative:queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF667-A4EA-42ED-ACCF-EABC7B20D886}|ImplementatiomStack\u0026\u0026QueueWithLinkedList.csproj|d:\\projects2\\implementatiomstack\u0026\u0026queuewithlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF667-A4EA-42ED-ACCF-EABC7B20D886}|ImplementatiomStack\u0026\u0026QueueWithLinkedList.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF667-A4EA-42ED-ACCF-EABC7B20D886}|ImplementatiomStack\u0026\u0026QueueWithLinkedList.csproj|d:\\projects2\\implementatiomstack\u0026\u0026queuewithlinkedlist\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF667-A4EA-42ED-ACCF-EABC7B20D886}|ImplementatiomStack\u0026\u0026QueueWithLinkedList.csproj|solutionrelative:stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects2\\ImplementatiomStack\u0026\u0026QueueWithLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects2\\ImplementatiomStack\u0026\u0026QueueWithLinkedList\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:58:27.917Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Projects2\\ImplementatiomStack\u0026\u0026QueueWithLinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "D:\\Projects2\\ImplementatiomStack\u0026\u0026QueueWithLinkedList\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:02:08.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "D:\\Projects2\\ImplementatiomStack\u0026\u0026QueueWithLinkedList\\Queue.cs",
+              "RelativeDocumentMoniker": "Queue.cs",
+              "ToolTip": "D:\\Projects2\\ImplementatiomStack\u0026\u0026QueueWithLinkedList\\Queue.cs",
+              "RelativeToolTip": "Queue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:59:24.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "D:\\Projects2\\ImplementatiomStack\u0026\u0026QueueWithLinkedList\\Stack.cs",
+              "RelativeDocumentMoniker": "Stack.cs",
+              "ToolTip": "D:\\Projects2\\ImplementatiomStack\u0026\u0026QueueWithLinkedList\\Stack.cs",
+              "RelativeToolTip": "Stack.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAEEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:59:08.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
