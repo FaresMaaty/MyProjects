@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects C#\\codoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|D:\\Projects C#\\codoo\\form000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|D:\\Projects C#\\codoo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|D:\\Projects C#\\codoo\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|d:\\projects c#\\codoo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|d:\\projects c#\\codoo\\form000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|d:\\projects c#\\codoo\\form000.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form000.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|D:\\Projects C#\\codoo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|D:\\Projects C#\\codoo\\showresult_rref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:showresult_rref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|d:\\projects c#\\codoo\\showresult_rref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:showresult_rref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|d:\\projects c#\\codoo\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|d:\\projects c#\\codoo\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|D:\\Projects C#\\codoo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|d:\\projects c#\\codoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|d:\\projects c#\\codoo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|D:\\Projects C#\\codoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|d:\\projects c#\\codoo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|d:\\projects c#\\codoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|D:\\Projects C#\\codoo\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:18:48.875Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:16:36.264Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form000.cs",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form000.cs",
+              "RelativeDocumentMoniker": "Form000.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form000.cs",
+              "RelativeToolTip": "Form000.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAAAO4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:06:23.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:27:14.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:18:03.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form000.Designer.cs",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form000.Designer.cs",
+              "RelativeDocumentMoniker": "Form000.Designer.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form000.Designer.cs",
+              "RelativeToolTip": "Form000.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:53:38.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowResult_RREF.cs",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\ShowResult_RREF.cs",
+              "RelativeDocumentMoniker": "ShowResult_RREF.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\ShowResult_RREF.cs",
+              "RelativeToolTip": "ShowResult_RREF.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:08:20.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAcwMwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:17:26.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:10:07.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:03:52.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:17:53.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowResult_RREF.cs [Design]",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\ShowResult_RREF.cs",
+              "RelativeDocumentMoniker": "ShowResult_RREF.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\ShowResult_RREF.cs [Design]",
+              "RelativeToolTip": "ShowResult_RREF.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:06:58.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:16:50.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form000.cs [Design]",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form000.cs",
+              "RelativeDocumentMoniker": "Form000.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form000.cs [Design]",
+              "RelativeToolTip": "Form000.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:47:30.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:16:52.35Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:51:19.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form4.cs [Design]",
+              "RelativeToolTip": "Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:16:54.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\Projects C#\\codoo\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "D:\\Projects C#\\codoo\\Form5.cs [Design]",
+              "RelativeToolTip": "Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:10:02.793Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
